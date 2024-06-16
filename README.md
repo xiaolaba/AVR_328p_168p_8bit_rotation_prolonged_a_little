@@ -6,7 +6,7 @@ the code does thing likely to load "01" as bit pattern, output to PORTB, rotate 
 why every 8 bit rotation is getting stretched ?  
 this is something we did not understand the avr mcu and the instructions.  
 
-complete source code is twoMHz_square_wave.ino, either uses batch file to build hex or uses Arduino IDE to build hex, both are ok.  
+complete source code is [twoMHz_square_wave.ino](twoMHz_square_wave.ino), either uses batch file to build hex or uses Arduino IDE to build hex, both are ok.  
 rename to *.c to *.ino in case you would use Arduino IDE to compile the code.  
 
 
