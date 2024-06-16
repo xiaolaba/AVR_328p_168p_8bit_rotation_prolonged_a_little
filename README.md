@@ -31,7 +31,7 @@ void clk_2MHz_4ch(void) {
 ```
 
 ### the PORTB signal is seeing repeated stretching, no clue to see why was that.  
-![why_every_8_bit_rotation_prolonged.JPG[(why_every_8_bit_rotation_prolonged.JPG)  
+![why_every_8_bit_rotation_prolonged.JPG](why_every_8_bit_rotation_prolonged.JPG)  
 
 
 
