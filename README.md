@@ -111,3 +111,14 @@ pause
 ```
 
 
+### helps and undersntading
+the former AVR froum and diverted to microchip today, Q&A, the result,  
+https://www.avrfreaks.net/s/topic/a5CV40000001WkDMAU/t396644  
+
+this is cause and solution, ror/rol is completed via C-bit, effectively rolling 8-bit register + 1 carry bit  
+[asm.bat](asm.bat), batch file to build/burn hex for validation  
+[twoMHz_square_wave_asm.asm](twoMHz_square_wave_asm.asm), source code      
+[twoMHz_square_wave_asm.hex](twoMHz_square_wave_asm.hex), firmware hex,  
+[gavrasm_en_4.5.exe](gavrasm_en_4.5.exe), assenbler used,  
+result  
+![C_bit_rolling.JPG](C_bit_rolling.JPG)  
