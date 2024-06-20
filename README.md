@@ -111,7 +111,7 @@ pause
 ```
 
 
-### helps and undersntading
+### helps and understanding
 the former AVR froum and diverted to microchip today, Q&A, the result,  
 https://www.avrfreaks.net/s/topic/a5CV40000001WkDMAU/t396644  
 
